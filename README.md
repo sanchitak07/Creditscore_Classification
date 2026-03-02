@@ -1,1 +1,1 @@
-https://credit-ml-app.preview.emergentagent.com/
+https://smart-loan-rating-1.preview.emergentagent.com/
